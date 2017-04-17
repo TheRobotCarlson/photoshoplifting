@@ -140,11 +140,11 @@ for idx, name in enumerate(image_tags):
 
 
 images = (
-            cv2.imread("pidgeon.jpg"),
-            cv2.imread("14877-diminish_reality_teaser.jpg"),
-            cv2.imread("object-removal-before.jpg"),
-            cv2.imread("output/new-coin-original.png"),
-            cv2.imread("new-boat.png")
+            # cv2.imread("pidgeon.jpg"),
+            # cv2.imread("14877-diminish_reality_teaser.jpg"),
+            # cv2.imread("object-removal-before.jpg"),
+            # cv2.imread("output/new-coin-original.png"),
+            cv2.imread("kekrickie.jpg")
         )
 
 
